@@ -103,23 +103,7 @@ The system is designed using Arduino Uno and demonstrates real-time sensing, aut
 
 ---
 
-# 📂 Repository Structure
 
-```
-Intelligent-Urban-Parking-Space-Optimization/
-│
-├── README.md
-├── Parkingcode.ino
-├── Project_Report.pdf
-├── Circuit_Diagram.png
-├── Block_Diagram.png
-├── Circuit_Implementation.png
-├── LCD_Output.png
-├── Full_Circuit.jpeg
-
-```
-
----
 
 # 🚀 Applications
 
