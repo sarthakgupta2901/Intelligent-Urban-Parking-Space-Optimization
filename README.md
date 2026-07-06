@@ -52,17 +52,17 @@ The system is designed using Arduino Uno and demonstrates real-time sensing, aut
 
 # 🏗 System Architecture
 
-> Add your Block Diagram here
 
-![Block Diagram](Images/Block_Diagram.png)
+
+![Block Diagram](Block_Diagram.png)
 
 ---
 
 # ⚙ Circuit Diagram
 
-> Add your Circuit Diagram here
 
-![Circuit Diagram](Images/Circuit_Diagram.png)
+
+![Circuit Diagram](Circuit_Diagram.png)
 
 ---
 
@@ -70,19 +70,19 @@ The system is designed using Arduino Uno and demonstrates real-time sensing, aut
 
 ## Hardware Setup
 
-![Setup](Images/Project_Setup.jpg)
+![Setup](Circuit_Implementation.png)
 
 ---
 
 ## LCD Output
 
-![LCD](Images/LCD_Output.jpg)
+![LCD](LCD_Output.png)
 
 ---
 
 ## Working Model
 
-![Working](Images/Working_Model.jpg)
+![Working](Full_Circuit.jpeg)
 
 ---
 
@@ -106,22 +106,16 @@ The system is designed using Arduino Uno and demonstrates real-time sensing, aut
 # 📂 Repository Structure
 
 ```
-Intelligent-Urban-Parking-Space-Optimization
-│
-├── Arduino_Code/
-│     SmartParking.ino
-│
-├── Images/
-│     Project_Setup.jpg
-│     LCD_Output.jpg
-│     Working_Model.jpg
-│     Block_Diagram.png
-│     Circuit_Diagram.png
-│
-├── Documentation/
-│     Project_Report.pdf
+Intelligent-Urban-Parking-Space-Optimization/
 │
 ├── README.md
+├── Parkingcode.ino
+├── Project_Report.pdf
+├── Circuit_Diagram.png
+├── Block_Diagram.png
+├── Circuit_Implementation.png
+├── LCD_Output.png
+├── Full_Circuit.jpeg
 
 ```
 
@@ -189,7 +183,7 @@ B.Tech Electronics & Communication Engineering
 
 Jaypee Institute of Information Technology (JIIT), Noida
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: *www.linkedin.com/in/sarthakgupta2901*
 
 ---
 
